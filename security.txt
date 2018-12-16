@@ -1,0 +1,50 @@
+﻿ ________   ________   ________    ________    ________   ________   ___      ___  _______    ________     
+|\   __  \ |\   __  \ |\   ____\  |\   ____\  |\   ____\ |\   __  \ |\  \    /  /||\  ___ \  |\   __  \    
+\ \  \|\  \\ \  \|\  \\ \  \___|_ \ \  \___|_ \ \  \___|_\ \  \|\  \\ \  \  /  / /\ \   __/| \ \  \|\  \   
+ \ \   ____\\ \   __  \\ \_____  \ \ \_____  \ \ \_____  \\ \   __  \\ \  \/  / /  \ \  \_|/__\ \   _  _\  
+  \ \  \___| \ \  \ \  \\|____|\  \ \|____|\  \ \|____|\  \\ \  \ \  \\ \    / /    \ \  \_|\ \\ \  \\  \| 
+   \ \__\     \ \__\ \__\ ____\_\  \  ____\_\  \  ____\_\  \\ \__\ \__\\ \__/ /      \ \_______\\ \__\\ _\ 
+    \|__|      \|__|\|__||\_________\|\_________\|\_________\\|__|\|__| \|__|/        \|_______| \|__|\|__|
+                         \|_________|\|_________|\|_________|                                              
+                                                                                               
+We are an online Secure Password Manager service, and although we use many of the latest encryption technology and dual authentication to protect user data security, 
+but there is no absolute security in the world, so we set up this project, 
+we hope that through the world's security researchers to help us catch the new procedural loopholes.
+
+* * However, please note that you must comply with the vulnerability Disclosure program, 
+
+    and if there are any related vulnerabilities on the system, please do not make it public before patching (otherwise we will retain the relevant legal liability).
+	
+────────────────────────────────────────────────────────────────────────────────
+    
+ __    __  _      _  _         _             _   
+/ / /\ \ \| |__  (_)| |_  ___ | |__    __ _ | |_ 
+\ \/  \/ /| '_ \ | || __|/ _ \| '_ \  / _` || __|
+ \  /\  / | | | || || |_|  __/| | | || (_| || |_ 
+  \/  \/  |_| |_||_| \__|\___||_| |_| \__,_| \__|
+  
+ We are very grateful to the following security researchers for us to catch vulnerabilities on the system to protect users and system security：
+ 
+	
+  KUNAL PANDEY     
+  
+  Alexey Leonov  
+  
+  Rohan Aggarwal (@nahoragg)   - https://twitter.com/nahoragg
+
+  Yassine Nafiai - https://twitter.com/YNafiai - https://www.facebook.com/yassine.nafiai.1
+
+  @0xd0m7 - https://hackerone.com/0xd0m7
+
+  Alfie Njeru - htttps://twitter.com/emenalf
+
+	
+	
+	
+────────────────────────────────────────────────────────────────────────────────
+
+Contact: secure@passaver.me 
+
+If you want to submit the related vulnerability, please go to https://hackerone.com/passsaver report.
+
+
